@@ -1,0 +1,14 @@
+D:\B.Tech\Mini Project\AE ANSII DATA\Series 01\Good    - better execution time
+D:\B.Tech\Mini Project\AE ANSII DATA\Series 01\LOP   
+
+D:\B.Tech\Mini Project\AE ANSII DATA\Series 02\Good      - longerexecution time
+D:\B.Tech\Mini Project\AE ANSII DATA\Series 02\LOP
+
+
+D:\B.Tech\Mini Project\AE ANSII DATA\Series 03\Good       - neutral
+D:\B.Tech\Mini Project\AE ANSII DATA\Series 03\LOP
+
+Noise (values with noise included)
+
+D:\B.Tech\Mini Project\AE ANSII DATA\ASCII Data\ascii dat for students\cycle 1\good 15
+D:\B.Tech\Mini Project\AE ANSII DATA\ASCII Data\ascii dat for students\cycle 1\lop 08\part 1
